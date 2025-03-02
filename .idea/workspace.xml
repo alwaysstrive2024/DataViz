@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ff6cfc4-732e-49de-9a41-98f89e6dc9ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DataViz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/Matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/matplotlib_examples.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/quick_start.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/01Numpy_notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/numpy_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/numpy_examples.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/Tutorial/basic_animation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/Tutorial/basic_animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/examples/numpy_examples.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/examples/ode_example.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/project4_solution (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/project4_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week04/project4_solution_final.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week05_2Dimages/examples/raster_graphics_examples.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week05_2Dimages/project5_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06_text/examples/four_coordinates.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06_text/examples/nltk_examples.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06_text/examples/text_box_example.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06_text/examples/word_boxes_solution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week06_text/project6_solution.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2shJZulbgYgQxf661TUot6dwCgx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fuyugu/PycharmProjects/DataViz/Week05_2Dimages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week05_2Dimages" />
+      <recent name="$PROJECT_DIR$/Week04" />
+      <recent name="$PROJECT_DIR$/Week04/Tutorial" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Matplolib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week06_text" />
+      <recent name="$PROJECT_DIR$/Week06_text/examples" />
+      <recent name="$PROJECT_DIR$/Week05_2Dimages/examples" />
+      <recent name="$PROJECT_DIR$/Week05_2Dimages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff6cfc4-732e-49de-9a41-98f89e6dc9ed" name="Changes" comment="" />
+      <created>1738901932004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738901932004</updated>
+      <workItem from="1738901933080" duration="3767000" />
+      <workItem from="1738995097766" duration="10215000" />
+      <workItem from="1739050283859" duration="1058000" />
+      <workItem from="1739069233096" duration="738000" />
+      <workItem from="1739070002372" duration="851000" />
+      <workItem from="1739071001054" duration="329000" />
+      <workItem from="1739071343393" duration="89000" />
+      <workItem from="1739071509647" duration="522000" />
+      <workItem from="1739072035150" duration="84000" />
+      <workItem from="1739072122085" duration="3166000" />
+      <workItem from="1739076017167" duration="1771000" />
+      <workItem from="1739077807172" duration="5377000" />
+      <workItem from="1739083207519" duration="2086000" />
+      <workItem from="1739132601677" duration="458000" />
+      <workItem from="1739139257579" duration="4000" />
+      <workItem from="1739748302391" duration="153000" />
+      <workItem from="1739751557913" duration="1875000" />
+      <workItem from="1740297050684" duration="1391000" />
+      <workItem from="1740350298166" duration="7836000" />
+      <workItem from="1740949190198" duration="311000" />
+      <workItem from="1740949507647" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/fuyugu/PycharmProjects/DataViz/Week06_text/project6_solution.ipynb</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
